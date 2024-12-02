@@ -1,9 +1,7 @@
 from ib111 import week_03  # noqa
 
-
 # Consider list of 2D plateaus represented by numbers
 # Plateau is when two or more same values are beside each other
-
 # ‹flats› returns all plateaus each represented by theirs heights
 
 def flats(heights):
